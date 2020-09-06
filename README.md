@@ -1,3 +1,3 @@
 # testrepo
 
-TThis is a Test. Notice the changes.
+This is a Test. Notice the changes.
